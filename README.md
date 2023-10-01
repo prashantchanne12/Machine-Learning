@@ -1,5 +1,5 @@
 # Machine-Learning
 
-All the csv files are in Dataset folder
+All the CSV files are in the Dataset folder
 
 ---
